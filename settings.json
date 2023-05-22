@@ -1,0 +1,46 @@
+{
+	"hotkey": "Key.f5",
+	"exitkey": "Key.f6",
+	"commandDelay": 1,
+	"showKeyCode": true,
+	"randomSkip": 0.1,
+	"randomTime": 45,
+	"stopAfter": -1,
+	"commands": [
+		{
+			"text": "hi!",
+			"waittime": 10,
+			"randomtime": true
+		},
+		{
+			"text": "Moi nguoi co khoe khong?",
+			"waittime": 30,
+			"randomtime": true
+		},
+		{
+			"text": "Moi nguoi lam toi dau roi?",
+			"waittime": 60,
+			"randomtime": true
+		},
+		{
+			"text": "Sei is good project.",
+			"waittime": 80,
+			"randomtime": true
+		},
+		{
+			"text": "Level 7 is coming.",
+			"waittime": 100,
+			"randomtime": true
+		},
+		{
+			"text": "Sei number 1.",
+			"waittime": 120,
+			"randomtime": true
+		}
+	],
+	"onetime": {
+		"hotkey": "Key.f8",
+		"delay": 3,
+		"commands": []
+	}
+}
